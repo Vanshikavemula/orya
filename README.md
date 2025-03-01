@@ -2,7 +2,7 @@
 Orya is a sleek and minimalist website that delivers a modern, responsive user interface. It is built using the latest web technologies, ensuring a smooth and intuitive user experience across devices.
 
 ## Website
-Visit the live version of the website here: orya.vercel.app
+Visit the live version of the website here: https://orya.vercel.app/
 
 ![image](https://github.com/user-attachments/assets/ee396464-8113-471c-9fab-637380c1cc3e)
 
